@@ -13,8 +13,8 @@ CHAT_ID = "-4634419776"
 
 # Salah times (24-hour format)
 SALAH_TIMES = {
-    "Fajr": "15:44",
-    "Dhuhr": "15:45",
+    "Fajr": "00:53",
+    "Dhuhr": "00:54",
     "Asr": "15:46",
     "Maghrib": "15:47",
     "Isha": "15:48"

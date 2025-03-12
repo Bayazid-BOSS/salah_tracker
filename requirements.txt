@@ -2,4 +2,7 @@ requests
 schedule
 python-telegram-bot
 requests
+python-telegram-bot==20.8
+schedule
+
 
